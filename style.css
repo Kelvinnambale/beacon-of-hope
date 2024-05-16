@@ -76,7 +76,7 @@ p {
   }
   
   .login-form.form-group:last-child {
-    margin-bottom: 0;
+    margin-bottom: 10px;
   }
   
   .button-fullwidth {
@@ -147,7 +147,8 @@ p {
   }
   footer {
     background-color: #0078C1;
-    padding: 20px 0;
+    color: #00030a;
+    padding: 10px 0;
     text-align: center;
   }
   
